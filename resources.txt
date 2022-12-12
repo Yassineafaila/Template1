@@ -1,0 +1,7 @@
+# ========  Color's ======
+
+--darkblue : #242A56;
+--lightblue : #749BE7;
+--bg : #EFF2FF;
+--gradient : linear-gradient(to bottom right, #2a305f,#242a5652);
+--text color :  #393A56;
